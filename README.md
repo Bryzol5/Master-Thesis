@@ -13,6 +13,7 @@ For regression: Theli's U statistic of 1.1 and MSE of 1.1.\
 For classification: Accuracy 82%, F1-score 72%.
 
 Work done:
+- Extensive data analysis,
 - Implemented different tactics,
 - Substantial feature extration,
 - Implemented different Machine Learning algorithms,
