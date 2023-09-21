@@ -1,5 +1,10 @@
 # Master-Thesis
-Description and results for Master Thesis task.
+Master’s Thesis aims to systematically analyse and compare the predictive 
+performance of different ML and AI models, such as Prophet, XGBoost (XGB), Random 
+Forests (RF), and Deep Learning (DL) models, with the implementation of Artificial 
+Association Systems, more precisely Associative Graph Data Structures (AGDS), in 
+predicting the stock prices of selected companies. This investigation will be achieved by 
+evaluating various statistical and financial metrics to discern the most efficient models.
 
 No code attached as this might be later used for personal gain. 
 
